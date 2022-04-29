@@ -1,0 +1,10 @@
+TO RUN:
+
+1. Set values of parameters (see start of file <ciaodvd.py>)
+2. Set input file names (see start of file <ciaodvd.py>)
+3. python ciaodvd.py
+
+Sample input data files are in directory "sample_data"
+
+Output:
+File containing Trustor, Trustee, Trust value
